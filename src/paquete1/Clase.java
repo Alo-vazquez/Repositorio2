@@ -11,5 +11,8 @@ package paquete1;
  */
 public class Clase {
   
-    //sdfegseg
+    //hola
+    int a=0;
+            
+            
 }
